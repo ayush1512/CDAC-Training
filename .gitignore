@@ -22,3 +22,4 @@ Thumbs.db
 # Keep answer keys out of the public repo until after each session.
 # Comment this line out when you are ready to publish them.
 **/solutions.py
+Assignments/build_assignment2_notebooks.py
